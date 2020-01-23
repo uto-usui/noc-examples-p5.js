@@ -5,3 +5,6 @@ This is the repository for example [p5.js](https://github.com/lmccart/p5.js/) co
 The original [Processing](http://processing.org) examples [can be found here](https://github.com/shiffman/The-Nature-of-Code-Examples), along with a [list of other ports](https://github.com/shiffman/The-Nature-of-Code-Examples/blob/master/README.md).
 
 
+## Related
+
+* [Generative Design with p5.js](http://www.bnn.co.jp/support/generativedesign_p5js/)
